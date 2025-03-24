@@ -4,11 +4,12 @@
    <tr>
       <td>
 <p align="center">
+
   <img src="https://github.com/user-attachments/assets/ed7f6727-3115-4be8-95fe-2393abb98889" alt="Fit Fusion Demo" width="400">
 </p> </td>
       <td>
 <p align="center">
-  <img src="welcome-page2.png" alt="Fit Fusion Demo" width="400">
+  <img src="https://github.com/user-attachments/assets/dade3614-1d82-421f-8c6c-8d5f6896ae93" alt="Fit Fusion Demo" width="400">
 </p>
       </td>
    </tr>
@@ -40,9 +41,6 @@ Predict calories burned during workouts using machine learning! Fit Fusion is an
    ```bash
    git clone https://github.com/yourusername/fit-fusion.git
    cd fit-fusion
-
-   Install dependencies:
-# Personal Fitness Tracker  
 
 ## Install Dependencies  
 
@@ -120,7 +118,7 @@ The model is trained on a dataset containing:
 
 ## Welcome Page
 <p align="center">
-  <img src="welcome-page.png" width="500" style="border: 2px solid #5A189A; border-radius: 10px;" alt="Fit Fusion Welcome Screen">
+  <img src="https://github.com/user-attachments/assets/ed7f6727-3115-4be8-95fe-2393abb98889" width="500" style="border: 2px solid #5A189A; border-radius: 10px;" alt="Fit Fusion Welcome Screen">
 </p>
 
 ## Fitness Feature Showcase
