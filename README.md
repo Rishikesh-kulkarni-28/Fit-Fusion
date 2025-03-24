@@ -90,8 +90,6 @@ The model is trained on a dataset containing:
 - **15,000** exercise records  
 - **Features:** Gender, Age, Weight, Height, Duration, Heart Rate, Body Temp  
 - **Target:** Calories burned  
-- **Dataset Source:** [Kaggle Exercise Dataset](#)  
-
 ---
 
 ## 🤖 Machine Learning  
@@ -130,19 +128,19 @@ The model is trained on a dataset containing:
 <table align="center">
   <tr>
     <td align="center">
-      <img src="welcome-page2.png" width="250" style="border: 1px solid #391958; border-radius: 8px;" alt="Feature 1">
+  <img src="https://github.com/user-attachments/assets/8405cf50-6620-480e-8f64-476dd07046ed" alt="Fit Fusion Demo" width="400">
       <br><strong>Feature 1</strong>
     </td>
     <td align="center">
-      <img src="usser-parameters.png" width="250" style="border: 1px solid #391958; border-radius: 8px;" alt="Feature 2">
+   <img src="https://github.com/user-attachments/assets/2bbc583f-e464-4bb0-b5f6-3ac6326d6ee4" alt="Fit Fusion Demo" width="400">
       <br><strong>Feature 2</strong>
     </td>
     <td align="center">
-      <img src="prediction-result.png" width="250" style="border: 1px solid #391958; border-radius: 8px;" alt="Feature 3">
+     <img src="https://github.com/user-attachments/assets/56a13fd7-93db-4156-aa5e-bc1a4b142290" alt="Fit Fusion Demo" width="400">
       <br><strong>Feature 3</strong>
     </td>
     <td align="center">
-      <img src="comparative.png" width="250" style="border: 1px solid #391958; border-radius: 8px;" alt="Feature 4">
+    <img src="https://github.com/user-attachments/assets/5514c486-2c8f-450b-bb7d-075ec0eed9fd" alt="Fit Fusion Demo" width="400">
       <br><strong>Feature 4</strong>
     </td>
   </tr>
